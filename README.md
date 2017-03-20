@@ -32,8 +32,8 @@ digital literacy course for NGOs and their volunteers / staff
 
 必用工具介紹：
 - git
-- codepen.io
-- could9.io
+- netlify.com
+- let's encrypted
 
 參考資源
 - freecodecamp
