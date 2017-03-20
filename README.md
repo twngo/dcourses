@@ -16,7 +16,10 @@ digital literacy course for NGOs and their volunteers / staff
 - 利用已有或新學到的技能為NGO/NPO for social goods
 - 持續型的人力知識社群經營
 
-### 課程(一)：了解網站前端入門
+專案網站：https://courses.twngo.xyz
+
+### 課程(一)：[了解網站前端入門](https://courses.twngo.xyz/c001)
+
 #### 本次目標：利用免費資源，讓不懂何任電腦語法者，從無到有在30分鐘內做好一個網站 
 #### 內容大綱：
 靜態網站：
@@ -37,6 +40,18 @@ digital literacy course for NGOs and their volunteers / staff
 - coursera 
 
 
+### 課程(三)：資料與資訊視覺化入門
+#### 本次目標： 資料識讀，別讓數字騙了你
+#### 內容大綱
+- 擅用試算表
+- 網路資料抓取程式應用
+- 資料的陷井
+ 
+參考資源
+- [information is beautiful](http://www.informationisbeautiful.net/)
+- [responsible data forum](https://responsibledata.io)
+
+
 ### 課程（二）：網路自由軟體介紹
 #### 本次目標：提高數位安全意識與實踐， 微型 l10n sprint 操作
 #### 內容大綱
@@ -49,14 +64,5 @@ digital literacy course for NGOs and their volunteers / staff
 - EFF Surveillance Self-Defense 
 - umbrella app 
 
-### 課程(三)：資料與資訊視覺化入門
-#### 本次目標： 資料識讀，別讓數字騙了你
-#### 內容大綱
-- 擅用試算表
-- 網路資料抓取程式應用
-- 資料的陷井
- 
-參考資源
-- [information is beautiful](http://www.informationisbeautiful.net/)
-- [responsible data forum](https://responsibledata.io)
+
 
