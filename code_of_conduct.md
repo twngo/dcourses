@@ -8,3 +8,5 @@
 
 
 如果對以上事項有任何問題或意見，可直接來信反應詢問（hello(at)twngo.xyz）
+
+本行為準則參考[Internet Freedom Festival](https://internetfreedomfestival.org/wiki/index.php/Code_of_Conduct) / [Securitywithoutborders](https://github.com/securitywithoutborders/organization/blob/master/code-of-conduct.md)。
