@@ -39,6 +39,7 @@ digital literacy course for NGOs and their volunteers / staff
 - freecodecamp
 - coursera 
 
+[上課內容簡報檔](https://oasis.sandstorm.io/shared/p3fscUlgITpmpRRUBD4Iyd9aq2MPZzfggea2Xbi92pp) （僅供參考，非最後定稿）
 
 ### 課程(三)：資料與資訊視覺化入門
 #### 本次目標： 資料識讀，別讓數字騙了你
