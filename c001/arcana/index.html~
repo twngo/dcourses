@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>empty page</title>
+                <link rel="stylesheet" href="assets/css/main.css" />  
+	</head>
+	<body>
+        <header id="header">>
+           <h3>歡迎來到本站</h3>
+        <nav id="nav">
+          <ul>
+            <li><a href="https://twngo.xzy">twngo.xyz</a></li>
+            <li><a href="https://twitter.com">twitter</a></li> 
+            <li><a href="https://medium.twngo.xzy">medium</a></li>
+          </ul>
+         </nav>
+        </header>
+          <section class="box feature" id="book">
+           <h3> 我喜歡的一本書</h3>
+           <p>Moonlight 月光下的藍色男孩獲得2017年美國Oscar 金像獎最佳影片，它講述了黑人同志的個人故事</p> 
+              <img src="">
+          </section>
+	　<section class="box feature" id="food">
+           <h3> 我喜歡吃關東煮</h3>
+           <p>黑輪甜不辣加上苦瓜，最近在特價，三件總共49元，如果加購飲料還可以減20元</p> 　　　　　　　　　　　　　　
+           <img src="">
+          </section>　
+         <section class="box feature" id="iot">
+           <h3> 我想要買新款的筆記型電腦</h3>
+           <p>商用超薄的輕巧筆電，13 吋不到1.2公斤，電池可持續運作15個小時，最棒的是它不附作業系統，所以用戶不必被廠商綁架</p> 　　　　　　　　　　　　　　
+           <img src="">
+          </section>　 
+　　　　　　　　　　<footer id="footer">
+　　　　　　　　　　　　　<li><a href="#" class="icon fa-twitter">Twitter</a></li>
+	　　　　　<li><a href="#" class="icon fa-facebook">Facebook</a></li>
+	　　　　　<li><a href="#" class="icon fa-instagram">Instagram</a></li>
+　　　　　　　　　　</footer>
+　　
+	</body>
+</html>
+

@@ -1,0 +1,26 @@
+body {
+	background-color:#826590;
+	color: rgba(0,255,0,0.9);
+	}
+
+a {
+   color: rgba(135,25,20,0.9)
+}
+
+img {
+  width: 50%;
+  height: 50%;	
+  border-radius: 10%;
+
+}
+
+section {
+  background-color:#722530;
+  color: #FFF;
+
+}
+
+#iot {
+background-color:#126590;
+
+}
