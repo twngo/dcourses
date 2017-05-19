@@ -45,13 +45,13 @@ May 20th 2017 @ Cafe' De Parfum
 
 --- 
 ### facebook data selife
-你願意讓別人看到“自己的資料被分析”的結果嗎
+你願意讓別人看到自己臉書資料的分析結果嗎
 
 [臉書上的“開放資料”](https://stalkscan.com/)
 
 
 ---
-### 資料過程-- 
+### 過程-- 
 #### 問題意識： 想了解什麼， (要解決什麼) 
 - 收集取得資料： 自行一手收集、二手資料
 - 清洗資料 ：[school of data](http://self.jxtsai.info/2016/07/schoo-of-data-2.html)
@@ -61,11 +61,12 @@ May 20th 2017 @ Cafe' De Parfum
 
 ---
 ###  心中的疑問 ：
-- “法官判決紀錄”可否挖出法官處理案件是否不當或是否適任?（司改）
+
 - 就業率與犯罪率之間關係（司改）
 - 男女薪資差距比例（制度、社會歧視）
-- 新北市空屋率（居住權）
-- 歷年遊行場次數（集遊權）
+- “法官判決紀錄”可否挖出法官處理案件是否不當或是否適任?（司改）
+- 影響家暴的可能因素? 家戶所得 、教育程度、.... (性別)
+- 社交平台「公開」資料與個人圖譜拼湊(隱私)
 
 ---
 ### 收集、找尋資料前再想一想：
@@ -132,11 +133,34 @@ Excel, SPSS, R.....
 ---
 ### 本次重點
 # Tableau Public
+
+---
+## Tableau 
 ### 介面
 ### 功能
-### 玩耍架構   
+示範檔案1： 檢察署偵查案件羈押人數及罪名統計表
+
+資料提供者：[法務部統計處](http://data.gov.tw/node/8596)  
+
+---
+## Tableau 
+#### 示範檔案2： 1896-2008 Summer Olympic medallists 
+地理圖表經緯度資訊
+
+
+---
+## Tableau 
+#### 示範檔案3： 003_TWdeath_update 
+2015台灣死因統計記錄前3000個樣本
+
+如何連結不同的工作表
+
+資料提供者：[衛福部](http://data.gov.tw/node/5965) 
+
+---
+## Tableau 
 #### worksheet/Sheet 
-#### Dashboard ：[World Bank](https://public.tableau.com/profile/richard.hegarty#!/vizhome/WorldBank-EducationandBirthrate/Dashboard1)  
+#### Dashboard ：以[World Bank](https://public.tableau.com/profile/richard.hegarty#!/vizhome/WorldBank-EducationandBirthrate/Dashboard1)為例 
 #### Story ： 以 [UNICEF](https://public.tableau.com/profile/unicefdata#!/) 為例
 
 
