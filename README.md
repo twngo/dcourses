@@ -19,41 +19,17 @@ digital literacy course for NGOs and their volunteers / staff
 專案網站：https://courses.twngo.xyz
 
 ### 課程(一)：[了解網站前端入門](https://courses.twngo.xyz/c001)
-
 #### 本次目標：利用免費資源，讓不懂何任電腦語法者，從無到有在30分鐘內做好一個網站 
-#### 內容大綱：
-靜態網站：
-- HTML5
-- CSS3
-- Javascript
-
-動態網站：
-- CMS(wp, drupal, joomla三大主流) 
-
-必用工具介紹：
-- git
-- netlify.com
-- let's encrypted
-
-參考資源
-- freecodecamp
-- coursera 
+課程[相關資料](https://github.com/twngo/dcourses/tree/master/c001) 投影片、參考資源、練習檔案等
 
 [上課內容簡報檔](https://oasis.sandstorm.io/shared/p3fscUlgITpmpRRUBD4Iyd9aq2MPZzfggea2Xbi92pp) （僅供參考，非最後定稿）
 
-### 課程(三)：資料與資訊視覺化入門
+### 課程(二)：[資料與資訊視覺化入門](https://courses.twngo.xyz/c002)
 #### 本次目標： 資料識讀，別讓數字騙了你
-#### 內容大綱
-- 擅用試算表
-- 網路資料抓取程式應用
-- 資料的陷井
- 
-參考資源
-- [information is beautiful](http://www.informationisbeautiful.net/)
-- [responsible data forum](https://responsibledata.io)
+課程[相關資料](https://github.com/twngo/dcourses/tree/master/c002) 投影片、參考資源、練習檔案等
 
 
-### 課程（二）：網路自由軟體介紹
+### 課程（三）：網路自由軟體介紹
 #### 本次目標：提高數位安全意識與實踐， 微型 l10n sprint 操作
 #### 內容大綱
 - tor
@@ -64,6 +40,4 @@ digital literacy course for NGOs and their volunteers / staff
 - Tactics Techonology Collective : security in a box
 - EFF Surveillance Self-Defense 
 - umbrella app 
-
-
 
