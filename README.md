@@ -29,7 +29,18 @@ digital literacy course for NGOs and their volunteers / staff
 課程[相關資料](https://github.com/twngo/dcourses/tree/master/c002) 投影片、參考資源、練習檔案等
 
 
-### 課程（三）：網路自由軟體介紹
+### 課程（三）：[人工智慧與NGO, 淺介聊天機器人](https://courses.twngo.xyz/c003) 
+#### 本次目標：以示範、練習 chatbot 腳本設計與流程安排為主軸，探討非營利組織如何看待人工智慧機器學習的發展應用
+#### 內容大綱
+- 國外非營利部門、NPO/NGO 聊天機器人的案例介紹 12分鐘
+- 動手設計自己的聊天機器人 以 motion.ai 環境介面為例　50分鐘
+- (國外)人權團體對於人工智慧與機器學習趨勢負面衝擊的關注追踪　13 分鐘
+
+參考資源
+- https://courses.twngo.xyz/c003
+
+
+### 課程（??）：網路自由軟體介紹
 #### 本次目標：提高數位安全意識與實踐， 微型 l10n sprint 操作
 #### 內容大綱
 - tor
