@@ -30,7 +30,7 @@ May 20th 2017 @ Cafe' De Parfum
  -- World Bank "[Open data essential](http://opendatatoolkit.worldbank.org/en/essentials.html)"
 
 ---
-### What's difference between knowoedge, information and data ?
+### What's difference between knowledge, information and data ?
 
 ![](https://i.imgur.com/6qARqxB.png)
 
@@ -67,6 +67,14 @@ May 20th 2017 @ Cafe' De Parfum
 - “法官判決紀錄”可否挖出法官處理案件是否不當或是否適任?（司改）
 - 影響家暴的可能因素? 家戶所得 、教育程度、.... (性別)
 - 社交平台「公開」資料與個人圖譜拼湊(隱私)
+
+
+---
+The Washington Post
+[US Police shootings  database](https://www.washingtonpost.com/graphics/national/police-shootings-2017/)
+
+[![](https://i.imgur.com/8OChlAk.png)](https://www.washingtonpost.com/graphics/national/police-shootings-2017/)
+
 
 ---
 ### 收集、找尋資料前再想一想：
@@ -127,7 +135,7 @@ Excel, SPSS, R.....
 
 ### 資料視覺化利器
 - python modules: pandas , numpy.. 
-- javascript libracy: D3...
+- javascript library: D3...
 - tableau
 
 ---
